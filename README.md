@@ -12,7 +12,7 @@
   ##
  
 <div> 
-  <a href = "mailto:tiagomenezes.pro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a className="bg-red-600 text-white font-semibold rounded px-8 py-2" href="mailto:tiagomenezes.pro@gmail.com">Gmail</a>
   <a href="https://www.linkedin.com/in/tiagomenezes-pro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
