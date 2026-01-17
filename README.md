@@ -11,8 +11,11 @@
   
   ##
  
-<div> 
-[![Email](https://img.shields.io/badge/Email-tiagomenezes.pro%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:tiagomenezes.pro@gmail.com)](mailto:tiagomenezes.pro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagomenezes-pro)](https://www.linkedin.com/in/tiagomenezes-pro)
-  
+<div align="center">
+  <a href="mailto:tiagomenezes.pro@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tiagomenezes-pro" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" height="40"/>
+  </a>
 </div>
