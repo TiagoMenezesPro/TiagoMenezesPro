@@ -12,7 +12,7 @@
   ##
  
 <div> 
-  <a className="bg-red-600 text-white font-semibold rounded px-8 py-2" href="mailto:tiagomenezes.pro@gmail.com">Gmail</a>
-  <a href="https://www.linkedin.com/in/tiagomenezes-pro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![Email](https://img.shields.io/badge/Email-tiagomenezes.pro%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:tiagomenezes.pro@gmail.com)](mailto:tiagomenezes.pro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagomenezes-pro)](https://www.linkedin.com/in/tiagomenezes-pro)
   
 </div>
